@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Jual Bentrap di Bandung 085777770332 Bentrap Bandung</title>
+
+<style>
+.wrap{
+	background: blue;
+	width: 900px;
+	margin: 10px auto;
+}
+ 
+/*bagian header*/
+.wrap .header{
+	background:rgb(3, 142, 255);
+	/*height: 50px;*/
+	padding: 2px 10px;
+}
+ 
+/*akhir header*/
+ 
+/*bagian menu*/
+.wrap .menu{
+	background: yellow;
+}
+ 
+.wrap .menu ul{
+	padding: 0;
+	margin: 0;
+	background: yellow;
+	overflow: hidden;
+}
+ 
+.wrap .menu ul li{
+	float: left;
+	list-style-type: none;
+	padding: 10px;
+}
+/*akhir menu*/
+ 
+.clear{
+	clear: both;
+}
+ 
+.badan{
+	height: 450px;
+}
+/*bagian sidebar*/
+.wrap .badan .sidebar{
+	background: orange;
+	float: left;	
+	width: 25%;
+	height: 100%;
+}
+ 
+/*akhir sidebar*/
+ 
+.wrap .badan .content{
+	background: red;
+	float: left;
+	height: 100%;
+	width: 75%;	
+}
+ 
+.wrap .footer{
+	width: 100%;
+	padding: 10px;
+}
+</style>
+</head>
+<body>
+	<div class="wrap">
+		<div class="header">			
+			<h1>Jual Bentrap di Bandung 085777770332 Bentrap Bandung</h1>
+			<p>Apotik Jual Bentrap di Bandung 085777770332 Bentrap Bandung</p>
+		</div>
+		<div class="menu">
+			<ul>
+				<li><a href="#">Bentrap</a></li>
+				<li><a href="#">Viagra USA</a></li>
+				<li><a href="#">Titan Gel</a></li>
+				<li><a href="#">Supremasi</a></li>
+				<li><a href="#">Blue Wizard</a></li>				
+			</ul>
+		</div>
+		<div class="badan">	
+
+
+
+			<!-- Sidebar -->		
+			<div class="sidebar">
+				<ul>
+					<li><a href="#">Jual Bentrap Di Bandung</a></li>
+					<li><a href="#">Jual Bentrap Di bandung Barat</a></li>
+					<li><a href="#">Jual Bentrap Di Bekasi</a></li>
+					<li><a href="#">Jual Bentrap Di bogor</a></li>
+					<li><a href="#">Jual Bentrap Di ciamis</a></li>
+					<li><a href="#">Jual Bentrap Di cianjur</a></li>
+					<li><a href="#">Jual Bentrap Di cirebon</a></li>
+					<li><a href="#">Jual Bentrap Di indramayu</a></li>
+					<li><a href="#">Jual Bentrap Di garut</a></li>
+					<li><a href="#">Jual Bentrap Di karawang</a></li>
+					<li><a href="#">Jual Bentrap Di kuningan</a></li>
+					<li><a href="#">Jual Bentrap Di majalengka</a></li>
+					<li><a href="#">Jual Bentrap Di pangandaran</a></li>
+					<li><a href="#">Jual Bentrap Di purwakarta</a></li>
+					<li><a href="#">Jual Bentrap Di subang</a></li>
+					<li><a href="#">Jual Bentrap Di sukabumi</a></li>
+					<li><a href="#">Jual Bentrap Di sumedang</a></li>
+					<li><a href="#">Jual Bentrap Di tasikmalaya</a></li>
+					<li><a href="#">Jual Bentrap Di banjar</a></li>
+					<li><a href="#">Jual Bentrap Di cimahi</a></li>
+					<li><a href="#">Jual Bentrap Di depok</a></li>
+									
+				</ul>
+			</div>
+			<!-- Kontent -->
+			<div class="content">
+				<h1 style="text-align: center;">Jual Bentrap di Bandung 085777770332 Bentrap Bandung </h1>
+
+				<center><img src="https://papang-shop.com/wp-content/uploads/2019/07/bentrap3-300x300.jpg" alt="Jual Bentrap Di " width="250"></center>
+
+
+
+				<a href="https://wa.me/6285777770332">
+				<center><img src="https://jualbentraporiginal.siterubix.com/wp-content/uploads/2020/03/info.png" alt="" width="200">
+				</a>
+
+
+			<a href="https://wa.me/6285777770332"></a>
+					<img src="https://jualbentraporiginal.siterubix.com/wp-content/uploads/2020/03/klik-whatsap-1.png" alt="" width="200"></div></center>
+			</a>
+				</div>
+		</div>
+		<div class="clear"></div>
+
+		<!-- Footer -->
+		<div class="footer">
+			<center>
+				<h3>Telephone : 0857 7777 0332</h3>
+				<h3>Call      : 0857 7777 0332</h3>
+				<h3>Whatsapp  : 0857 7777 0332</h3>
+				<a href="https://wa.me/6285777770332">
+					<img src="https://jualbentraporiginal.siterubix.com/wp-content/uploads/2020/03/klik-whatsap-1.png" alt="Klik Untuk Order Otomatis">
+				</a>
+			</center>
+		</div>
+	</div>
+</body>
+</html>
